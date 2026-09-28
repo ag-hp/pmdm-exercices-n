@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/Estado-Completado-brightgreen?style=flat" alt="Completado">
 </div>
 
-<br>
-
 ---
 
 <h2>UT00 - Introducción a Kotlin</h2>
